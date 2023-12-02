@@ -1,0 +1,45 @@
+/* IntroSection.css */
+
+.section-intro,.menu-section-intro,.checkout-section-intro {
+    height: 820px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-intro{
+    background-image: url(../../assets/beirut.jpg);
+}
+
+.menu-section-intro{
+    background-image: url(../../assets/menu.jpg);
+}
+
+.checkout-section-intro{
+    background-image: url(../../assets//checkout.jpg);
+}
+
+.section-intro h1,
+.menu-section-intro h1,
+.checkout-section-intro h1 {
+    text-align: center;
+    color: #ffffff;
+    font-size: 4em;
+    font-weight: 700;
+}
+
+.section-intro header,
+.menu-section-intro header,
+.checkout-section-intro header {
+    display: flex;
+    flex: 4;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.link-to-book-wrapper {
+    flex: 1;
+}
