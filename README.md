@@ -13,7 +13,7 @@ Finally we would love to hear our costumers feedback so we will let them send us
 
 >Use and understand Git! Play with Branches and undo/revert things = go back in time!
 
-&rarr; [See commit history here](put your link here)
+&rarr; [See commit history here](https://github.com/Majdhijazi/Software-development/commits?author=Majdhijazi)
 
 ## 2. UML 
 
