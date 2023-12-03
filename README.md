@@ -68,7 +68,7 @@ Finally we would love to hear our costumers feedback so we will let them send us
 
 >Use a good IDE and get fluent with it: e.g. IntelliJ. What are your favourite key shortcuts?!
 
-### CHOSEN IDE: [name of your IDE](put your link here)
+### CHOSEN IDE: [VISUAL STUDIO COMMUNITY 2022](https://visualstudio.microsoft.com/vs/community/)
 
 &rarr; *shortcuts that I used the most*:
 - ```ctrl + f``` (find)
@@ -76,4 +76,14 @@ Finally we would love to hear our costumers feedback so we will let them send us
 - ```ctrl + c/v/x``` (copy/paste/cut)
 - ```F5/F11/F10``` (debug/step into/step over)  
 - ```ctrl + q``` (find functions/Code)
+
+## 11. Functional programming
+
+> prove that you have covered all functional aspects in your code as:
+- only final data structures
+- (mostly) side-effect-free functions
+- the use of higher-order functions
+- functions as parameters and return values  
+- use closures / anonymous functions
+- You can also do it outside of your project. Even in other languages such as F#, Clojure, Julia, etc. 
 
