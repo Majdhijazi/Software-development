@@ -14,6 +14,7 @@ Finally we would love to hear our costumers feedback so we will let them send us
 >Use and understand Git! Play with Branches and undo/revert things = go back in time!
 
 &rarr; [See commit history here](https://github.com/Majdhijazi/Software-development/commits?author=Majdhijazi)
+&rarr; [Second branch/firstcheck](https://github.com/Majdhijazi/Software-development/commits/firstcheck)
 
 ## 2. UML 
 
