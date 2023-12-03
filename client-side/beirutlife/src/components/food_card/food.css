@@ -1,0 +1,54 @@
+/* FoodCard.css */
+.card {
+  width: 30%;
+  margin: 1%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+.image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.content {
+  padding: 15px;
+}
+
+.name {
+  margin: 0;
+  font-size: 1.2em;
+}
+
+.price {
+  margin: 8px 0;
+  font-size: 1em;
+}
+
+.btn.btn-primary {
+  font-family: "Big Shoulders Text", cursive;
+  color: #ffffff;
+  background-color: #95999e;
+  text-transform: uppercase;
+  font-size: 16px;
+  padding: 5px 10px;
+  letter-spacing: 2px;
+  border: 0;
+  width: 100%;
+}
+
+.btn.btn-primary:hover {
+  background-color: #747474;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

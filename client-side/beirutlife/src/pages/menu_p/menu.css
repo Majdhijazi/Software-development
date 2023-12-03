@@ -1,0 +1,22 @@
+.menu-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.checkbtn.checkbtn-primary {
+  font-family: "Big Shoulders Text", cursive;
+  color: #000;
+  background-color: gold;
+  text-transform: uppercase;
+  font-size: 16px;
+  padding: 5px 10px;
+  letter-spacing: 2px;
+  border: 0;
+  width: 50%;
+}
+
+.checkbtn.checkbtn-primary:hover {
+  background-color: goldenrod;
+}
