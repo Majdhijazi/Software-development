@@ -24,6 +24,10 @@ Finally we would love to hear our costumers feedback so we will let them send us
 
 &rarr; [Click here](https://github.com/Majdhijazi/Software-development/blob/main/client-side/beirutlife/Activity%20diagram.png)
 
+### Use case diagram 
+
+&rarr; [Click here](https://github.com/Majdhijazi/Software-development/blob/main/client-side/beirutlife/use%20case%20diagram.png)
+
 
 
 
