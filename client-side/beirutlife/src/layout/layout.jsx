@@ -42,9 +42,15 @@ const Footer = () => {
         <div className="contact-adress">
           <h3>Contact</h3>
           <p>
+<<<<<<< Updated upstream
             <span>+49 1627370029 </span>
             <span> Berlin, Sees Str.26 </span>
             <span> CEO Majd Hijazi</span>
+=======
+            <div>+49 1627370029</div>
+            <div>Berlin, Sees str.16</div>
+            <div>CEO Majd Hijazi</div>
+>>>>>>> Stashed changes
           </p>
         </div>
       </div>
