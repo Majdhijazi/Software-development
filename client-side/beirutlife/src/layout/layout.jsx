@@ -7,13 +7,13 @@ const Navbar = () =>{
     <nav>
       <ul className="nav-flex-row">
         <li className="nav-item">
-          <a href="Home">Home</a>
+          <a href="/">Home</a>
         </li>
         <li className="nav-item">
-          <a href="Menu">Menu</a>
+          <a href="menu">Menu</a>
         </li>
         <li className="nav-item">
-          <a href="CheckOut">Checkout</a>
+          <a href="checkout">Checkout</a>
         </li>
         <FormPopup/>
       </ul>
@@ -42,8 +42,8 @@ const Footer = () => {
         <div className="contact-adress">
           <h3>Contact</h3>
           <p>
-            <div>+49 1627370029</div>
-            <div>Berlin, Sees str.16</div>
+            <div>+491627370029</div>
+            <div>Wedding, Sees str 16</div>
             <div>CEO Majd Hijazi</div>
           </p>
         </div>
