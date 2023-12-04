@@ -1,0 +1,38 @@
+/* DataGrid.css */
+
+.data-grid {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  
+  .header-row {
+    display: flex;
+    background-color: #f0f0f0;
+    font-weight: bold;
+  }
+  
+  .column-header,
+  .data-cell {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
+.data-row{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+  @media (max-width: 768px) {
+    .data-row {
+      flex-direction: column;
+    }
+  
+    .header-row,
+    .data-row {
+      flex-direction: column;
+    }
+  }
+  

@@ -8,9 +8,9 @@ import CheckOut from './pages/checkout_p/checkout';
 function App() {
   return (
     <div className="App">
-      {/* <Layout children={<Home/>}/>*/}
-      {/*<Layout children={<Menu/>}/>*/}
-      {<Layout children={<CheckOut/>}/>}
+      {<Layout children={<Home/>}/>};
+      {<Layout children={<Menu/>}/>};
+      {<Layout children={<CheckOut/>}/>};
     </div>
   );
 }
