@@ -21,7 +21,14 @@ Finally we would love to hear our costumers feedback so we will let them send us
 
 >UML at least 3 good different big diagrams. "good" means you can pump it up artificially as written in DDD. You have 10 million $ from me! Please export the pics. I can not install all the tools to view them! Perfect would be 1) one dynamic diagram like an activity diagranm 2) one or two static diagrams as component, class or deployment and if needed a use-case diagram.
 
-|TODO|
+Use Case diagram 
+![use case diagram](https://github.com/Majdhijazi/Software-development/assets/148714411/bc2f2596-7710-40c7-9f6f-e1eea11724f1)
+
+
+Activity Diagram
+![Activity diagram](https://github.com/Majdhijazi/Software-development/assets/148714411/63770d4c-c708-4ff9-b24b-3372709e8d74)
+
+
 
 ## 3. Requirements Engineering
 
