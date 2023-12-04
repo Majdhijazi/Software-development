@@ -7,13 +7,13 @@ const Navbar = () =>{
     <nav>
       <ul className="nav-flex-row">
         <li className="nav-item">
-          <a href="/">Home</a>
+          <a href="Home">Home</a>
         </li>
         <li className="nav-item">
-          <a href="menu">Menu</a>
+          <a href="Menu">Menu</a>
         </li>
         <li className="nav-item">
-          <a href="checkout">Checkout</a>
+          <a href="CheckOut">Checkout</a>
         </li>
         <FormPopup/>
       </ul>
@@ -42,9 +42,9 @@ const Footer = () => {
         <div className="contact-adress">
           <h3>Contact</h3>
           <p>
-            <span>+961 79 165 376</span>
-            <span>51 Hadat</span>
-            <span>CEO Majd Hijazi</span>
+            <span>+49 1627370029 </span>
+            <span> Berlin, Sees Str.26 </span>
+            <span> CEO Majd Hijazi</span>
           </p>
         </div>
       </div>
