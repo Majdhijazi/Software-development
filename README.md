@@ -42,6 +42,7 @@ Finally we would love to hear our costumers feedback so we will let them send us
 
 >From all the points in the Analysis learning unit, A) come up with your own checklist (on an extra DIN A4 page) with the points that you consider relevant to your project. B. Carry out an analysis of your semester project/your favourite / start-up idea and would like to submit this analysis as part of a large documentary! Write enough about each point to create at least 2 pages. Assume that you will soon have an angel for the start-up chapter. If successful, you would get a lot of “money” to be able to do the design and implement it later. So get your start-up successfully into the race!
 
+### Part A 
 &rarr;[Click here](https://github.com/Majdhijazi/Software-development/blob/main/client-side/beirutlife/src/Analysis%20PDF%20part%20A.pdf)
 
 ## 5. DDD
