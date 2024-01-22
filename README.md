@@ -55,7 +55,15 @@ Finally we would love to hear our costumers feedback so we will let them send us
 
 >Metrics at least two. Sonarcube would be great. Other non-trivial metrics are also fine.
 
-|TODO|
+Quality Gate
+Reliability
+Security
+Security Review
+Maintainability
+Coverage
+Duplications
+Size
+
 
 ## 7. Clean Code Dev
 
