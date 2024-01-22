@@ -55,14 +55,12 @@ Finally we would love to hear our costumers feedback so we will let them send us
 
 >Metrics at least two. Sonarcube would be great. Other non-trivial metrics are also fine.
 
-Quality Gate
-Reliability
-Security
-Security Review
-Maintainability
-Coverage
-Duplications
-Size
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Majdhijazi_Software-development&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Majdhijazi_Software-development)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Majdhijazi_Software-development&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Majdhijazi_Software-development)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Majdhijazi_Software-development&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Majdhijazi_Software-development)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Majdhijazi_Software-development&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Majdhijazi_Software-development)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=Majdhijazi_Software-development&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=Majdhijazi_Software-development)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Majdhijazi_Software-development&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=Majdhijazi_Software-development)
 
 
 ## 7. Clean Code Dev
