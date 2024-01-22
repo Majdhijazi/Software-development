@@ -106,6 +106,7 @@ Finally we would love to hear our costumers feedback so we will let them send us
 >- use closures / anonymous functions
 >- You can also do it outside of your project. Even in other languages such as F#, Clojure, Julia, etc.
 
+
 &rarr; [Only final data structures](https://github.com/Majdhijazi/Software-development/blob/a7613a9a329f8bc21c4b9079548ae333a2ebe938/client-side/beirutlife/src/functional%20programming.py#L1-L4)
 
 &rarr; [(mostly) side-effect-free functions](https://github.com/Majdhijazi/Software-development/blob/a7613a9a329f8bc21c4b9079548ae333a2ebe938/client-side/beirutlife/src/functional%20programming.py#L12-L18)
