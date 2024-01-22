@@ -44,6 +44,8 @@ Finally we would love to hear our costumers feedback so we will let them send us
 
 ### Part A 
 &rarr;[Click here](https://github.com/Majdhijazi/Software-development/blob/main/client-side/beirutlife/src/Analysis%20PDF%20part%20A.pdf)
+### Part B
+&rarr;[Click here]()
 
 ## 5. DDD
 
