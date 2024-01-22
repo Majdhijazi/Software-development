@@ -13,13 +13,24 @@ Finally we would love to hear our costumers feedback so we will let them send us
 
 >Use and understand Git! Play with Branches and undo/revert things = go back in time!
 
-&rarr; [See commit history here](put your link here)
+&rarr; [See commit history here](https://github.com/Majdhijazi/Software-development/commits?author=Majdhijazi)
+&rarr; [Second branch/firstcheck](https://github.com/Majdhijazi/Software-development/commits/firstcheck)
+
 
 ## 2. UML 
 
 >UML at least 3 good different big diagrams. "good" means you can pump it up artificially as written in DDD. You have 10 million $ from me! Please export the pics. I can not install all the tools to view them! Perfect would be 1) one dynamic diagram like an activity diagranm 2) one or two static diagrams as component, class or deployment and if needed a use-case diagram.
+ ### Activity Diagamm 
 
-|TODO|
+&rarr; [Click here](https://github.com/Majdhijazi/Software-development/blob/main/client-side/beirutlife/Activity%20diagram.png)
+
+### Use case diagram 
+
+&rarr; [Click here](https://github.com/Majdhijazi/Software-development/blob/main/client-side/beirutlife/use%20case%20diagram.png)
+
+
+
+
 
 ## 3. Requirements Engineering
 
@@ -31,7 +42,10 @@ Finally we would love to hear our costumers feedback so we will let them send us
 
 >From all the points in the Analysis learning unit, A) come up with your own checklist (on an extra DIN A4 page) with the points that you consider relevant to your project. B. Carry out an analysis of your semester project/your favourite / start-up idea and would like to submit this analysis as part of a large documentary! Write enough about each point to create at least 2 pages. Assume that you will soon have an angel for the start-up chapter. If successful, you would get a lot of “money” to be able to do the design and implement it later. So get your start-up successfully into the race!
 
-|TODO|
+### Part A 
+&rarr;[Click here](https://github.com/Majdhijazi/Software-development/blob/main/client-side/beirutlife/src/Analysis%20PDF%20part%20A.pdf)
+### Part B
+&rarr;[Click here](https://github.com/Majdhijazi/Software-development/blob/main/client-side/beirutlife/src/Part%20B.pdf)
 
 ## 5. DDD
 
@@ -43,7 +57,13 @@ Finally we would love to hear our costumers feedback so we will let them send us
 
 >Metrics at least two. Sonarcube would be great. Other non-trivial metrics are also fine.
 
-|TODO|
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Majdhijazi_Software-development&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Majdhijazi_Software-development)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Majdhijazi_Software-development&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Majdhijazi_Software-development)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Majdhijazi_Software-development&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Majdhijazi_Software-development)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Majdhijazi_Software-development&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Majdhijazi_Software-development)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=Majdhijazi_Software-development&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=Majdhijazi_Software-development)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Majdhijazi_Software-development&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=Majdhijazi_Software-development)
+
 
 ## 7. Clean Code Dev
 
@@ -67,7 +87,7 @@ Finally we would love to hear our costumers feedback so we will let them send us
 
 >Use a good IDE and get fluent with it: e.g. IntelliJ. What are your favourite key shortcuts?!
 
-### CHOSEN IDE: [name of your IDE](put your link here)
+### CHOSEN IDE: [VISUAL STUDIO COMMUNITY 2022](https://visualstudio.microsoft.com/vs/community/)
 
 &rarr; *shortcuts that I used the most*:
 - ```ctrl + f``` (find)
@@ -75,4 +95,24 @@ Finally we would love to hear our costumers feedback so we will let them send us
 - ```ctrl + c/v/x``` (copy/paste/cut)
 - ```F5/F11/F10``` (debug/step into/step over)  
 - ```ctrl + q``` (find functions/Code)
+
+## 11. Functional programming
+
+>prove that you have covered all functional aspects in your code as:
+>- only final data structures
+>- (mostly) side-effect-free functions
+>- the use of higher-order functions
+>- functions as parameters and return values
+>- use closures / anonymous functions
+>- You can also do it outside of your project. Even in other languages such as F#, Clojure, Julia, etc.
+
+&rarr; [Only final data structures]([https://github.com/Majdhijazi/Software-development/blob/main/client-side/beirutlife/src/functional%20programming.py](https://github.com/Majdhijazi/Software-development/blob/b9e9e2d48f6c8691eadbae5b554eb452e577b68d/client-side/beirutlife/src/functional%20programming.py#L1-L5))
+
+&rarr; [(mostly) side-effect-free functions](https://github.com/Majdhijazi/Software-development/blob/b9e9e2d48f6c8691eadbae5b554eb452e577b68d/client-side/beirutlife/src/functional%20programming.py#L12-L17)
+
+&rarr; [the use of higher-order functions](https://github.com/Majdhijazi/Software-development/blob/b9e9e2d48f6c8691eadbae5b554eb452e577b68d/client-side/beirutlife/src/functional%20programming.py#L23-L32)
+
+&rarr; [functions as parameters and return values](https://github.com/Majdhijazi/Software-development/blob/b9e9e2d48f6c8691eadbae5b554eb452e577b68d/client-side/beirutlife/src/functional%20programming.py#L34-L45)
+
+&rarr; [use closures / anonymous functions](https://github.com/Majdhijazi/Software-development/blob/b9e9e2d48f6c8691eadbae5b554eb452e577b68d/client-side/beirutlife/src/functional%20programming.py#L46-L49)
 
