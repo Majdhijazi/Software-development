@@ -79,13 +79,18 @@ Finally we would love to hear our costumers feedback so we will let them send us
 
 >Build Management with any Build System as Ant, Maven, Gradle, etc. (only Travis is perhaps not enough) Do e.g. generate Docs, call tests, etc. (it could be also disconnected from the project just to learn a build tool!) and CICD
 
-|TODO|
+&rarr; [Buildpdf](https://github.com/Majdhijazi/Software-development/blob/main/build%20management%20system.pdf)
+
+&rarr; [Buildfile](https://github.com/Majdhijazi/Software-development/blob/main/build.py)
 
 ## 9. UnitTests
 
 >Integrate some nice unit tests in your Code to be integrated into the Build
 
-|TODO|
+&rarr; [Unit test Pdf](https://github.com/Majdhijazi/Software-development/blob/main/Unittest.pdf)
+
+&rarr; [Unit test file](https://github.com/Majdhijazi/Software-development/blob/main/src/unittest/python/main_tests.py)
+
 
 ## 10. IDE
 
