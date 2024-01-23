@@ -73,6 +73,8 @@ Finally we would love to hear our costumers feedback so we will let them send us
 
 &rarr; [Part A](https://github.com/Majdhijazi/Software-development/blob/main/client-side/beirutlife/src/CCD.pdf)
 
+&rarr; [Part B]()
+
 ## 8. Build
 
 >Build Management with any Build System as Ant, Maven, Gradle, etc. (only Travis is perhaps not enough) Do e.g. generate Docs, call tests, etc. (it could be also disconnected from the project just to learn a build tool!) and CICD
