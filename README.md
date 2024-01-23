@@ -69,7 +69,7 @@ Finally we would love to hear our costumers feedback so we will let them send us
 
 >Clean Code Development: A) At least 5 points you can show me with an explanation of why this is clean code in your code and/or what has improved & B) >>10 points on your personal CCD cheat sheet. E.g. a PDF.
 
-|TODO|
+&rarr; [Click here](https://github.com/Majdhijazi/Software-development/blob/main/client-side/beirutlife/src/CCD.pdf)
 
 ## 8. Build
 
