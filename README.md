@@ -36,7 +36,9 @@ Finally we would love to hear our costumers feedback so we will let them send us
 
 >Describe your project or any project (e.g. one related to your work or a private project) neatly using the methods of Requirements Engineering by mapping some requirements in 2 tools (!).To do this, use the most important description attributes from the script! Approximately 5-10 requirements per tool should be sufficient. Two variants should be provided = tools. A 'self-made' version and a professional = possibly commercial version, i.e. with 2 tools! Examples of 'self-made' variants: Airtable, notion.so, Trello, etc. Examples of commercial tools: Monday, Jira, Doors, ObjectIF, Xebrio, etc. (see Miro). Instead of the professional version, you can also build a tool yourself.
 
-|TODO|
+&rarr; [Jira+confluence](https://github.com/Majdhijazi/Software-development/blob/main/client-side/beirutlife/src/Jira%20%2B%20Confluence.pdf)
+
+&rarr; [Notion](https://github.com/Majdhijazi/Software-development/blob/main/client-side/beirutlife/src/Notion.pdf)
 
 ## 4. Analysis
 
@@ -51,7 +53,7 @@ Finally we would love to hear our costumers feedback so we will let them send us
 
 >DDD Do a DDD session to find your domains! If your domain is too small, invent other domains around and document these domains (as if you have 100 Mio € from Edlich-Investment!) Develop a clear strategic design with mappings/relationships with >=8 Domains coming from an A) Event Storming. Drop your Domains into a B) Core Domain Chart and draw the C) Relations between the Domains!  
 
-|TODO|
+&rarr;[Click here](https://github.com/Majdhijazi/Software-development/blob/main/DDD.pdf)
 
 ## 6. Metrices
 
