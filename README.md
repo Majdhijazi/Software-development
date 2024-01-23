@@ -73,7 +73,7 @@ Finally we would love to hear our costumers feedback so we will let them send us
 
 &rarr; [Part A](https://github.com/Majdhijazi/Software-development/blob/main/client-side/beirutlife/src/CCD.pdf)
 
-&rarr; [Part B]()
+&rarr; [Part B](https://github.com/Majdhijazi/Software-development/blob/main/client-side/beirutlife/src/CCD%20PART%20B.pdf)
 
 ## 8. Build
 
