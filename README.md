@@ -53,7 +53,7 @@ Finally we would love to hear our costumers feedback so we will let them send us
 
 >DDD Do a DDD session to find your domains! If your domain is too small, invent other domains around and document these domains (as if you have 100 Mio € from Edlich-Investment!) Develop a clear strategic design with mappings/relationships with >=8 Domains coming from an A) Event Storming. Drop your Domains into a B) Core Domain Chart and draw the C) Relations between the Domains!  
 
-|TODO|
+&rarr;[Click here](https://github.com/Majdhijazi/Software-development/blob/main/DDD.pdf)
 
 ## 6. Metrices
 
